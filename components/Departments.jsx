@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import { useParams, Navigate } from 'react-router-dom';
 import { DEPARTMENT_DETAILS, FACULTY } from '@/constants';
 import { BookOpen, Users, Monitor, FileText, CheckCircle } from 'lucide-react';
 import SectionTitle from './ui/SectionTitle';

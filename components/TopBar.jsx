@@ -1,7 +1,6 @@
 import React from 'react';
 import { Phone, Mail, MapPin, Facebook, Twitter, Linkedin, Instagram } from 'lucide-react';
 import { CONTACT_INFO, SOCIAL_LINKS } from '@/constants';
-import { NavLink } from 'react-router-dom';
 
 export default function TopBar() {
     return (
