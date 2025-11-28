@@ -4,7 +4,7 @@ import { BookOpen, Users, Monitor, FileText, CheckCircle } from 'lucide-react';
 import SectionTitle from './ui/SectionTitle';
 
 export default function DepartmentDetails () {
-  const { deptId } = useParams<{ deptId: string }>();
+  const { deptId } = useParams<{ deptId: string }>("");
   const [activeTab, setActiveTab] = useState<'overview' | 'faculty' | 'facilities'>('overview');
 
   const dept = DEPARTMENT_DETAILS[deptId || ''];
