@@ -1,0 +1,14 @@
+{
+    "hero": {
+        "badge": "Admissions Open 2025-26",
+        "title": "Shape Your Future at SAMRAT",
+        "subtitle": "Premier Institute for Science, Management & Technology. Join a community of innovators and leaders.",
+        "image": "https://images.unsplash.com/photo-1562774053-701939374585?ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80"
+    },
+    "principal": {
+        "name": "Dr. Rajesh Kumar Verma",
+        "designation": "Principal, Samrat Group of Institutions",
+        "message": "At SAMRAT, we don't just create graduates; we sculpt the leaders of tomorrow. Our focus on holistic development ensures that our students are ready to tackle the challenges of the modern world with ethics and innovation.",
+        "image": "https://images.unsplash.com/photo-1560250097-0b93528c311a?ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80"
+    }
+}

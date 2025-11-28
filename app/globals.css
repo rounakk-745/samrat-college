@@ -1,0 +1,17 @@
+@import "tailwindcss";
+@import "../styles/animations.css";
+
+/* Apply cursor pointer to all interactive elements */
+button,
+a,
+[role="button"],
+[onclick],
+.clickable {
+    cursor: pointer;
+}
+
+/* Ensure disabled buttons don't show pointer */
+button:disabled,
+a:disabled {
+    cursor: not-allowed;
+}

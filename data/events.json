@@ -1,0 +1,20 @@
+[
+  {
+    "id": "evt-001",
+    "date": "25 DEC",
+    "title": "Annual Tech Fest 'SAMRAT-TECH 2025'",
+    "location": "Main Auditorium",
+    "image": "",
+    "createdAt": "2025-11-28T04:28:00.000Z",
+    "updatedAt": "2025-11-28T04:28:00.000Z"
+  },
+  {
+    "id": "evt-002",
+    "date": "05 JAN",
+    "title": "Alumni Meet 2026",
+    "location": "Campus Grounds",
+    "image": "",
+    "createdAt": "2025-11-28T04:28:00.000Z",
+    "updatedAt": "2025-11-28T04:28:00.000Z"
+  }
+]

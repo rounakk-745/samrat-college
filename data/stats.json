@@ -1,0 +1,26 @@
+[
+    {
+        "id": "stat-001",
+        "label": "Years of Excellence",
+        "value": "25+",
+        "order": 1
+    },
+    {
+        "id": "stat-002",
+        "label": "Students Enrolled",
+        "value": "5,000+",
+        "order": 2
+    },
+    {
+        "id": "stat-003",
+        "label": "Placement Rate",
+        "value": "94%",
+        "order": 3
+    },
+    {
+        "id": "stat-004",
+        "label": "Companies Visited",
+        "value": "120+",
+        "order": 4
+    }
+]

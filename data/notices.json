@@ -1,0 +1,50 @@
+[
+  {
+    "id": "ntc-1764316091104-w1ba3jx",
+    "date": "I have added a new Notice. ",
+    "text": "This is another notice that i have uploaded for testing that whether it is working properly or not.",
+    "new": true,
+    "createdAt": "2025-11-28T07:48:11.104Z",
+    "updatedAt": "2025-11-28T07:48:11.104Z"
+  },
+  {
+    "id": "ntc-001",
+    "date": "20 Nov 2025",
+    "text": "BSc Semester 3 Examination Schedule Released - Click to Download",
+    "new": true,
+    "createdAt": "2025-11-20T00:00:00.000Z",
+    "updatedAt": "2025-11-20T00:00:00.000Z"
+  },
+  {
+    "id": "ntc-002",
+    "date": "18 Nov 2025",
+    "text": "Campus Recruitment Drive: TCS & Wipro Registration Open for Final Year",
+    "new": true,
+    "createdAt": "2025-11-18T00:00:00.000Z",
+    "updatedAt": "2025-11-18T00:00:00.000Z"
+  },
+  {
+    "id": "ntc-003",
+    "date": "15 Nov 2025",
+    "text": "Guest Lecture on 'AI in Finance' by Dr. R.K. Sharma (IIM Bangalore)",
+    "new": false,
+    "createdAt": "2025-11-15T00:00:00.000Z",
+    "updatedAt": "2025-11-15T00:00:00.000Z"
+  },
+  {
+    "id": "ntc-004",
+    "date": "10 Nov 2025",
+    "text": "Scholarship Applications for Merit Students (2025-26) Closing Soon",
+    "new": false,
+    "createdAt": "2025-11-10T00:00:00.000Z",
+    "updatedAt": "2025-11-10T00:00:00.000Z"
+  },
+  {
+    "id": "ntc-005",
+    "date": "05 Nov 2025",
+    "text": "Anti-Ragging Committee Meeting Minutes - Nov 2025",
+    "new": false,
+    "createdAt": "2025-11-05T00:00:00.000Z",
+    "updatedAt": "2025-11-05T00:00:00.000Z"
+  }
+]
